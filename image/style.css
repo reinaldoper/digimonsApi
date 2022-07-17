@@ -1,0 +1,33 @@
+body {
+    background-image: url('./meudijimon.jpg');
+    text-align: center;
+}
+.card:hover {
+    transform: translateY(-5px);
+    cursor: pointer;
+  }
+   
+  .card p {
+    color: blue;
+    font-size: 16px;
+    border: 2px solid black;
+    width: 100px;
+    margin: auto;
+    background-color: aqua;
+    border-radius: 8px;
+  }
+   
+  .image {
+    width: 200px;
+    height: 250px;
+    border-radius: 8px;
+  }
+  .row {
+    text-align: center;
+  }
+  input {
+    border-radius: 8px;
+  }
+  #botao {
+    border-radius: 8px;
+  }
