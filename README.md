@@ -6,6 +6,10 @@ Api dos personagens Digimons. Baseado em cards, onde o usuário digita o nome do
 git clone git@github.com:reinaldoper/digimonsApi.git
 </br>
 Após, um npm install para baixar as dependencias do projeto.
+</br>
+Para rodar no terminal, baixar a extensão GO LIVE 
+</br>
+![Tela Inicial](images/myexchanges.png) 
 
 
 
