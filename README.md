@@ -8,7 +8,7 @@ Api dos personagens Digimons. Baseado em cards, onde o usuário digita o nome do
 - Para rodar no terminal, baixar a extensão GO LIVE 
 # A primeira Tela da aplicação:
 ![Tela Inicial](image/digimom.png) 
-- Digitando o nome do personagem no componente imput, será renderizado a imagem do mesmo.
+- Digitando o nome do personagem no componente imput, e clicando no botão "Seu Dijimon" será renderizado a imagem do mesmo.
 
 
 
