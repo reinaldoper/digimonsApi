@@ -9,7 +9,7 @@ Após, um npm install para baixar as dependencias do projeto.
 </br>
 Para rodar no terminal, baixar a extensão GO LIVE 
 </br>
-![Tela Inicial](images/myexchanges.png) 
+![Tela Inicial](image/digimon.png) 
 
 
 
