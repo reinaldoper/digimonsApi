@@ -9,7 +9,7 @@ Após, um npm install para baixar as dependencias do projeto.
 </br>
 Para rodar no terminal, baixar a extensão GO LIVE 
 </br>
-#A primeira Tela da aplicação:
+# A primeira Tela da aplicação:
 ![Tela Inicial](image/digimom.png) 
 
 
