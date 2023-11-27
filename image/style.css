@@ -1,6 +1,10 @@
 body {
-    background-image: url('./meudijimon.jpg');
-    text-align: center;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-image: url('./meudijimon.jpg');
+  background-size: cover;
+  text-align: center;
 }
 .card:hover {
     transform: translateY(-5px);

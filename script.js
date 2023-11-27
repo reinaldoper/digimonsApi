@@ -15,7 +15,6 @@ const requestDigimon = async () => {
 const result = async ({ target }) => {
     const digimon = await requestDigimon();
         const value = target.value;
-        console.log(value);
         const find = digimon.find(({ name }) => name.toLowerCase() === value.toLowerCase());
         const { name, level, img } = find;
         nome.innerHTML = name;
